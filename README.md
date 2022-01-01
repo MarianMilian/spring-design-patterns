@@ -1,1 +1,1 @@
-# spring-designe-patterns
+# spring-design-patterns
